@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSAPlayerDir>C:\Program Files\Unity 2017.2.0b11\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+    </PropertyGroup>
+</Project>
