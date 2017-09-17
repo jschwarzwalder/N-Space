@@ -37,6 +37,7 @@ public class CustomController : MonoBehaviour
 
         foreach (var button in this.buttons)
         {
+            return;
             button.Value.Pressed = Input.GetButton(button.Key.buttonId);
         }
 
