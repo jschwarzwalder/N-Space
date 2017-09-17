@@ -259,7 +259,7 @@ public class MotionControllerInput : MonoBehaviour
 
     private void AddDevice(uint id)
     {
-        if (!imDevices.ContainsKey(id))
+        if (!imDevices.ContainsKey(id) && imDevices.Count < 2)
         {
             GameObject go = Instantiate(this.DevicePrefab, this.ControllersRoot);
             go.name = "Controller " + id;

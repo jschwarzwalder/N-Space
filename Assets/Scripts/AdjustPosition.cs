@@ -5,6 +5,7 @@ using UnityEngine;
 public class AdjustPosition : MonoBehaviour {
     public Transform target;
     public Transform referencePoint;
+    public Transform referencePointTwo;
     public Vector3 direction;   
     public Vector3 displacement;
     public float distance;
@@ -17,8 +18,9 @@ public class AdjustPosition : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
+        Vector3 lineDisplacement = referencePoint.position - referencePointTwo.position;
+        lineDisplacement.Normalize();
         float refDistance = Vector3.Distance(target.position, referencePoint.position);
-        transform.position = referencePoint.position + transform.forward * (refDistance - distance);
+        transform.position = referencePoint.position + lineDisplacement * (refDistance - distance);
 	}
 }
