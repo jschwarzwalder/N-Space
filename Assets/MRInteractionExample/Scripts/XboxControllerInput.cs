@@ -51,6 +51,8 @@ public class XboxControllerInput : MonoBehaviour
 
     void Update()
     {
+        return;
+
         if (Input.GetButtonDown("Xbox-A"))
         {
             Debug.Log("Gamepad Xbox-A hit");
