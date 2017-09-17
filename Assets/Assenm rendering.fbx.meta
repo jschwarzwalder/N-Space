@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: 85c66cac28256d84da10c2ac37502f41
+timeCreated: 1505625552
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Assem test 1
+    100002: Assem test 1 1
+    100004: Assem test 1 10
+    100006: Assem test 1 100
+    100008: Assem test 1 101
+    100010: Assem test 1 102
+    100012: Assem test 1 103
+    100014: Assem test 1 104
+    100016: Assem test 1 105
+    100018: Assem test 1 106
+    100020: Assem test 1 107
+    100022: Assem test 1 108
+    100024: Assem test 1 109
+    100026: Assem test 1 11
+    100028: Assem test 1 110
+    100030: Assem test 1 111
+    100032: Assem test 1 112
+    100034: Assem test 1 113
+    100036: Assem test 1 114
+    100038: Assem test 1 115
+    100040: Assem test 1 115_MeshPart0
+    100042: Assem test 1 115_MeshPart1
+    100044: Assem test 1 115_MeshPart2
+    100046: Assem test 1 115_MeshPart3
+    100048: Assem test 1 116
+    100050: Assem test 1 117
+    100052: Assem test 1 117_MeshPart0
+    100054: Assem test 1 117_MeshPart1
+    100056: Assem test 1 117_MeshPart2
+    100058: Assem test 1 117_MeshPart3
+    100060: Assem test 1 117_MeshPart4
+    100062: Assem test 1 117_MeshPart5
+    100064: Assem test 1 118
+    100066: Assem test 1 119
+    100068: Assem test 1 12
+    100070: Assem test 1 120
+    100072: Assem test 1 121
+    100074: Assem test 1 122
+    100076: Assem test 1 123
+    100078: Assem test 1 124
+    100080: Assem test 1 125
+    100082: Assem test 1 126
+    100084: Assem test 1 127
+    100086: Assem test 1 128
+    100088: Assem test 1 129
+    100090: Assem test 1 13
+    100092: Assem test 1 14
+    100094: Assem test 1 15
+    100096: Assem test 1 16
+    100098: Assem test 1 17
+    100100: Assem test 1 18
+    100102: Assem test 1 19
+    100104: Assem test 1 2
+    100106: Assem test 1 20
+    100108: Assem test 1 21
+    100110: Assem test 1 22
+    100112: Assem test 1 23
+    100114: Assem test 1 24
+    100116: Assem test 1 25
+    100118: Assem test 1 26
+    100120: Assem test 1 27
+    100122: Assem test 1 28
+    100124: Assem test 1 29
+    100126: Assem test 1 3
+    100128: Assem test 1 30
+    100130: Assem test 1 31
+    100132: Assem test 1 32
+    100134: Assem test 1 33
+    100136: Assem test 1 34
+    100138: Assem test 1 35
+    100140: Assem test 1 36
+    100142: Assem test 1 37
+    100144: Assem test 1 38
+    100146: Assem test 1 39
+    100148: Assem test 1 4
+    100150: Assem test 1 40
+    100152: Assem test 1 41
+    100154: Assem test 1 42
+    100156: Assem test 1 43
+    100158: Assem test 1 44
+    100160: Assem test 1 45
+    100162: Assem test 1 46
+    100164: Assem test 1 47
+    100166: Assem test 1 48
+    100168: Assem test 1 49
+    100170: Assem test 1 5
+    100172: Assem test 1 50
+    100174: Assem test 1 51
+    100176: Assem test 1 52
+    100178: Assem test 1 53
+    100180: Assem test 1 54
+    100182: Assem test 1 55
+    100184: Assem test 1 56
+    100186: Assem test 1 57
+    100188: Assem test 1 58
+    100190: Assem test 1 59
+    100192: Assem test 1 6
+    100194: Assem test 1 60
+    100196: Assem test 1 61
+    100198: Assem test 1 62
+    100200: Assem test 1 63
+    100202: Assem test 1 64
+    100204: Assem test 1 65
+    100206: Assem test 1 66
+    100208: Assem test 1 67
+    100210: Assem test 1 68
+    100212: Assem test 1 69
+    100214: Assem test 1 7
+    100216: Assem test 1 70
+    100218: Assem test 1 71
+    100220: Assem test 1 72
+    100222: Assem test 1 73
+    100224: Assem test 1 74
+    100226: Assem test 1 75
+    100228: Assem test 1 76
+    100230: Assem test 1 77
+    100232: Assem test 1 78
+    100234: Assem test 1 79
+    100236: Assem test 1 8
+    100238: Assem test 1 80
+    100240: Assem test 1 81
+    100242: Assem test 1 82
+    100244: Assem test 1 83
+    100246: Assem test 1 84
+    100248: Assem test 1 85
+    100250: Assem test 1 86
+    100252: Assem test 1 87
+    100254: Assem test 1 88
+    100256: Assem test 1 89
+    100258: Assem test 1 9
+    100260: Assem test 1 90
+    100262: Assem test 1 91
+    100264: Assem test 1 92
+    100266: Assem test 1 93
+    100268: Assem test 1 94
+    100270: Assem test 1 95
+    100272: Assem test 1 96
+    100274: Assem test 1 96_MeshPart0
+    100276: Assem test 1 96_MeshPart1
+    100278: Assem test 1 96_MeshPart2
+    100280: Assem test 1 97
+    100282: Assem test 1 98
+    100284: Assem test 1 99
+    100286: //RootNode
+    400000: Assem test 1
+    400002: Assem test 1 1
+    400004: Assem test 1 10
+    400006: Assem test 1 100
+    400008: Assem test 1 101
+    400010: Assem test 1 102
+    400012: Assem test 1 103
+    400014: Assem test 1 104
+    400016: Assem test 1 105
+    400018: Assem test 1 106
+    400020: Assem test 1 107
+    400022: Assem test 1 108
+    400024: Assem test 1 109
+    400026: Assem test 1 11
+    400028: Assem test 1 110
+    400030: Assem test 1 111
+    400032: Assem test 1 112
+    400034: Assem test 1 113
+    400036: Assem test 1 114
+    400038: Assem test 1 115
+    400040: Assem test 1 115_MeshPart0
+    400042: Assem test 1 115_MeshPart1
+    400044: Assem test 1 115_MeshPart2
+    400046: Assem test 1 115_MeshPart3
+    400048: Assem test 1 116
+    400050: Assem test 1 117
+    400052: Assem test 1 117_MeshPart0
+    400054: Assem test 1 117_MeshPart1
+    400056: Assem test 1 117_MeshPart2
+    400058: Assem test 1 117_MeshPart3
+    400060: Assem test 1 117_MeshPart4
+    400062: Assem test 1 117_MeshPart5
+    400064: Assem test 1 118
+    400066: Assem test 1 119
+    400068: Assem test 1 12
+    400070: Assem test 1 120
+    400072: Assem test 1 121
+    400074: Assem test 1 122
+    400076: Assem test 1 123
+    400078: Assem test 1 124
+    400080: Assem test 1 125
+    400082: Assem test 1 126
+    400084: Assem test 1 127
+    400086: Assem test 1 128
+    400088: Assem test 1 129
+    400090: Assem test 1 13
+    400092: Assem test 1 14
+    400094: Assem test 1 15
+    400096: Assem test 1 16
+    400098: Assem test 1 17
+    400100: Assem test 1 18
+    400102: Assem test 1 19
+    400104: Assem test 1 2
+    400106: Assem test 1 20
+    400108: Assem test 1 21
+    400110: Assem test 1 22
+    400112: Assem test 1 23
+    400114: Assem test 1 24
+    400116: Assem test 1 25
+    400118: Assem test 1 26
+    400120: Assem test 1 27
+    400122: Assem test 1 28
+    400124: Assem test 1 29
+    400126: Assem test 1 3
+    400128: Assem test 1 30
+    400130: Assem test 1 31
+    400132: Assem test 1 32
+    400134: Assem test 1 33
+    400136: Assem test 1 34
+    400138: Assem test 1 35
+    400140: Assem test 1 36
+    400142: Assem test 1 37
+    400144: Assem test 1 38
+    400146: Assem test 1 39
+    400148: Assem test 1 4
+    400150: Assem test 1 40
+    400152: Assem test 1 41
+    400154: Assem test 1 42
+    400156: Assem test 1 43
+    400158: Assem test 1 44
+    400160: Assem test 1 45
+    400162: Assem test 1 46
+    400164: Assem test 1 47
+    400166: Assem test 1 48
+    400168: Assem test 1 49
+    400170: Assem test 1 5
+    400172: Assem test 1 50
+    400174: Assem test 1 51
+    400176: Assem test 1 52
+    400178: Assem test 1 53
+    400180: Assem test 1 54
+    400182: Assem test 1 55
+    400184: Assem test 1 56
+    400186: Assem test 1 57
+    400188: Assem test 1 58
+    400190: Assem test 1 59
+    400192: Assem test 1 6
+    400194: Assem test 1 60
+    400196: Assem test 1 61
+    400198: Assem test 1 62
+    400200: Assem test 1 63
+    400202: Assem test 1 64
+    400204: Assem test 1 65
+    400206: Assem test 1 66
+    400208: Assem test 1 67
+    400210: Assem test 1 68
+    400212: Assem test 1 69
+    400214: Assem test 1 7
+    400216: Assem test 1 70
+    400218: Assem test 1 71
+    400220: Assem test 1 72
+    400222: Assem test 1 73
+    400224: Assem test 1 74
+    400226: Assem test 1 75
+    400228: Assem test 1 76
+    400230: Assem test 1 77
+    400232: Assem test 1 78
+    400234: Assem test 1 79
+    400236: Assem test 1 8
+    400238: Assem test 1 80
+    400240: Assem test 1 81
+    400242: Assem test 1 82
+    400244: Assem test 1 83
+    400246: Assem test 1 84
+    400248: Assem test 1 85
+    400250: Assem test 1 86
+    400252: Assem test 1 87
+    400254: Assem test 1 88
+    400256: Assem test 1 89
+    400258: Assem test 1 9
+    400260: Assem test 1 90
+    400262: Assem test 1 91
+    400264: Assem test 1 92
+    400266: Assem test 1 93
+    400268: Assem test 1 94
+    400270: Assem test 1 95
+    400272: Assem test 1 96
+    400274: Assem test 1 96_MeshPart0
+    400276: Assem test 1 96_MeshPart1
+    400278: Assem test 1 96_MeshPart2
+    400280: Assem test 1 97
+    400282: Assem test 1 98
+    400284: Assem test 1 99
+    400286: //RootNode
+    2100000: 'Assem test 1_color_0_0_0 #41'
+    2100002: 'Assem test 1_color_0_0_0 #43'
+    2100004: 'Assem test 1_color_0_0_0 #42'
+    2100006: 'Assem test 1_color_0_0_0 #21'
+    2100008: 'Assem test 1_color_0_0_0 #22'
+    2100010: 'Assem test 1_color_0_0_0 #23'
+    2100012: 'Assem test 1_color_255_0_0 #2'
+    2100014: 'Assem test 1_color_0_0_0 #24'
+    2100016: 'Assem test 1_color_0_0_0 #25'
+    2100018: 'Assem test 1_color_0_0_0 #26'
+    2100020: 'Assem test 1_color_0_0_0 #27'
+    2100022: 'Assem test 1_color_0_0_0 #28'
+    2100024: 'Assem test 1_color_0_0_0 #29'
+    2100026: 'Assem test 1_color_0_0_0 #30'
+    2100028: 'Assem test 1_color_0_0_0 #31'
+    2100030: 'Assem test 1_color_0_0_0 #32'
+    2100032: 'Assem test 1_color_0_0_0 #33'
+    2100034: 'Assem test 1_color_0_0_0 #34'
+    2100036: 'Assem test 1_color_0_0_0 #35'
+    2100038: 'Assem test 1_color_0_0_0 #36'
+    2100040: 'Assem test 1_color_0_0_0 #37'
+    2100042: 'Assem test 1_color_0_0_0 #38'
+    2100044: 'Assem test 1_color_7_248_241 #4'
+    2100046: 'Assem test 1_color_0_0_0 #44'
+    2100048: 'Assem test 1_color_0_0_0 #48'
+    2300000: Assem test 1 100
+    2300002: Assem test 1 101
+    2300004: Assem test 1 102
+    2300006: Assem test 1 103
+    2300008: Assem test 1 104
+    2300010: Assem test 1 105
+    2300012: Assem test 1 106
+    2300014: Assem test 1 107
+    2300016: Assem test 1 108
+    2300018: Assem test 1 109
+    2300020: Assem test 1 110
+    2300022: Assem test 1 111
+    2300024: Assem test 1 112
+    2300026: Assem test 1 113
+    2300028: Assem test 1 114
+    2300030: Assem test 1 115_MeshPart0
+    2300032: Assem test 1 115_MeshPart1
+    2300034: Assem test 1 115_MeshPart2
+    2300036: Assem test 1 115_MeshPart3
+    2300038: Assem test 1 116
+    2300040: Assem test 1 117_MeshPart0
+    2300042: Assem test 1 117_MeshPart1
+    2300044: Assem test 1 117_MeshPart2
+    2300046: Assem test 1 117_MeshPart3
+    2300048: Assem test 1 117_MeshPart4
+    2300050: Assem test 1 117_MeshPart5
+    2300052: Assem test 1 118
+    2300054: Assem test 1 119
+    2300056: Assem test 1 120
+    2300058: Assem test 1 121
+    2300060: Assem test 1 122
+    2300062: Assem test 1 123
+    2300064: Assem test 1 124
+    2300066: Assem test 1 125
+    2300068: Assem test 1 126
+    2300070: Assem test 1 127
+    2300072: Assem test 1 128
+    2300074: Assem test 1 129
+    2300076: Assem test 1 84
+    2300078: Assem test 1 85
+    2300080: Assem test 1 86
+    2300082: Assem test 1 87
+    2300084: Assem test 1 88
+    2300086: Assem test 1 89
+    2300088: Assem test 1 90
+    2300090: Assem test 1 91
+    2300092: Assem test 1 92
+    2300094: Assem test 1 93
+    2300096: Assem test 1 94
+    2300098: Assem test 1 95
+    2300100: Assem test 1 96_MeshPart0
+    2300102: Assem test 1 96_MeshPart1
+    2300104: Assem test 1 96_MeshPart2
+    2300106: Assem test 1 97
+    2300108: Assem test 1 98
+    2300110: Assem test 1 99
+    3300000: Assem test 1 100
+    3300002: Assem test 1 101
+    3300004: Assem test 1 102
+    3300006: Assem test 1 103
+    3300008: Assem test 1 104
+    3300010: Assem test 1 105
+    3300012: Assem test 1 106
+    3300014: Assem test 1 107
+    3300016: Assem test 1 108
+    3300018: Assem test 1 109
+    3300020: Assem test 1 110
+    3300022: Assem test 1 111
+    3300024: Assem test 1 112
+    3300026: Assem test 1 113
+    3300028: Assem test 1 114
+    3300030: Assem test 1 115_MeshPart0
+    3300032: Assem test 1 115_MeshPart1
+    3300034: Assem test 1 115_MeshPart2
+    3300036: Assem test 1 115_MeshPart3
+    3300038: Assem test 1 116
+    3300040: Assem test 1 117_MeshPart0
+    3300042: Assem test 1 117_MeshPart1
+    3300044: Assem test 1 117_MeshPart2
+    3300046: Assem test 1 117_MeshPart3
+    3300048: Assem test 1 117_MeshPart4
+    3300050: Assem test 1 117_MeshPart5
+    3300052: Assem test 1 118
+    3300054: Assem test 1 119
+    3300056: Assem test 1 120
+    3300058: Assem test 1 121
+    3300060: Assem test 1 122
+    3300062: Assem test 1 123
+    3300064: Assem test 1 124
+    3300066: Assem test 1 125
+    3300068: Assem test 1 126
+    3300070: Assem test 1 127
+    3300072: Assem test 1 128
+    3300074: Assem test 1 129
+    3300076: Assem test 1 84
+    3300078: Assem test 1 85
+    3300080: Assem test 1 86
+    3300082: Assem test 1 87
+    3300084: Assem test 1 88
+    3300086: Assem test 1 89
+    3300088: Assem test 1 90
+    3300090: Assem test 1 91
+    3300092: Assem test 1 92
+    3300094: Assem test 1 93
+    3300096: Assem test 1 94
+    3300098: Assem test 1 95
+    3300100: Assem test 1 96_MeshPart0
+    3300102: Assem test 1 96_MeshPart1
+    3300104: Assem test 1 96_MeshPart2
+    3300106: Assem test 1 97
+    3300108: Assem test 1 98
+    3300110: Assem test 1 99
+    4300000: Assem test 1
+    4300002: Assem test 1
+    4300004: Assem test 1
+    4300006: Assem test 1
+    4300008: Assem test 1
+    4300010: Assem test 1
+    4300012: Assem test 1
+    4300014: Assem test 1
+    4300016: Assem test 1
+    4300018: Assem test 1
+    4300020: Assem test 1
+    4300022: Assem test 1
+    4300024: Assem test 1
+    4300026: Assem test 1
+    4300028: Assem test 1
+    4300030: Assem test 1
+    4300032: Assem test 1
+    4300034: Assem test 1
+    4300036: Assem test 1
+    4300038: Assem test 1
+    4300040: Assem test 1_MeshPart0
+    4300042: Assem test 1_MeshPart1
+    4300044: Assem test 1_MeshPart2
+    4300046: Assem test 1
+    4300048: Assem test 1
+    4300050: Assem test 1
+    4300052: Assem test 1
+    4300054: Assem test 1
+    4300056: Assem test 1
+    4300058: Assem test 1
+    4300060: Assem test 1
+    4300062: Assem test 1
+    4300064: Assem test 1
+    4300066: Assem test 1
+    4300068: Assem test 1
+    4300070: Assem test 1
+    4300072: Assem test 1
+    4300074: Assem test 1
+    4300076: Assem test 1
+    4300078: Assem test 1
+    4300080: Assem test 1_MeshPart0
+    4300082: Assem test 1_MeshPart1
+    4300084: Assem test 1_MeshPart2
+    4300086: Assem test 1_MeshPart3
+    4300088: Assem test 1_MeshPart0
+    4300090: Assem test 1_MeshPart1
+    4300092: Assem test 1_MeshPart2
+    4300094: Assem test 1_MeshPart3
+    4300096: Assem test 1_MeshPart4
+    4300098: Assem test 1_MeshPart5
+    4300100: Assem test 1
+    4300102: Assem test 1
+    4300104: Assem test 1
+    4300106: Assem test 1
+    4300108: Assem test 1
+    4300110: Assem test 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
