@@ -7,7 +7,7 @@ public class RotationInput : InputComponent {
     public Transform target;
 
     public override Quaternion GetRotation() {
-        return target.localRotation;
+        return target.rotation;
     }
 
     public override float GetAxis() {

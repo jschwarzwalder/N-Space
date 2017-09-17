@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: d00d6132e1a2c2e4b850ab7abea254e3
+timeCreated: 1505674825
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 2
+    100002: "Assem1\uFF08part)"
+    100004: "Assem1\uFF08part) 1"
+    100006: "Assem1\uFF08part) 10"
+    100008: "Assem1\uFF08part) 11"
+    100010: "Assem1\uFF08part) 12"
+    100012: "Assem1\uFF08part) 2"
+    100014: "Assem1\uFF08part) 3"
+    100016: "Assem1\uFF08part) 4"
+    100018: "Assem1\uFF08part) 5"
+    100020: "Assem1\uFF08part) 6"
+    100022: "Assem1\uFF08part) 7"
+    100024: "Assem1\uFF08part) 8"
+    100026: "Assem1\uFF08part) 9"
+    100028: Central Control
+    100030: conjection
+    100032: conjection 1
+    100034: //RootNode
+    400000: 2
+    400002: "Assem1\uFF08part)"
+    400004: "Assem1\uFF08part) 1"
+    400006: "Assem1\uFF08part) 10"
+    400008: "Assem1\uFF08part) 11"
+    400010: "Assem1\uFF08part) 12"
+    400012: "Assem1\uFF08part) 2"
+    400014: "Assem1\uFF08part) 3"
+    400016: "Assem1\uFF08part) 4"
+    400018: "Assem1\uFF08part) 5"
+    400020: "Assem1\uFF08part) 6"
+    400022: "Assem1\uFF08part) 7"
+    400024: "Assem1\uFF08part) 8"
+    400026: "Assem1\uFF08part) 9"
+    400028: Central Control
+    400030: conjection
+    400032: conjection 1
+    400034: //RootNode
+    2100000: 'Part3_polished steel_165_158_150 #4'
+    2100002: "Assem1\uFF08part)_color_202_209_238 #33"
+    2100004: Steel Textured
+    2300000: "Assem1\uFF08part) 10"
+    2300002: "Assem1\uFF08part) 11"
+    2300004: "Assem1\uFF08part) 12"
+    2300006: "Assem1\uFF08part) 8"
+    2300008: "Assem1\uFF08part) 9"
+    3300000: "Assem1\uFF08part) 10"
+    3300002: "Assem1\uFF08part) 11"
+    3300004: "Assem1\uFF08part) 12"
+    3300006: "Assem1\uFF08part) 8"
+    3300008: "Assem1\uFF08part) 9"
+    4300000: "Assem1\uFF08part)"
+    4300002: "Assem1\uFF08part)"
+    4300004: "Assem1\uFF08part)"
+    4300006: "Assem1\uFF08part)"
+    4300008: "Assem1\uFF08part)"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

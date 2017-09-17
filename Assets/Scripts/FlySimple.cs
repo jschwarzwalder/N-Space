@@ -85,33 +85,35 @@ public class FlySimple : MonoBehaviour {
 			transform.Rotate(0,0, _rotationAmount);
 		}
 
-		//Flight Stick controls
+        //Flight Stick controls
 
-		//Pitch ship forward by rotateAmount each frame
-		if(InputManager.GetAxisRaw("in") == 1){
+        //Pitch ship forward by rotateAmount each frame
+        /*if(InputManager.GetAxisRaw("in") == 1){
 			//pitch ship down by rotateAmount each frame
 			transform.Rotate(rotateAmount, 0, 0);
 		}
 		if(InputManager.GetAxisRaw("out") == 1){
 			//pitch ship up by rotateAmount each frame
 			transform.Rotate(-rotateAmount, 0, 0);
-		}
-		if(Input.GetKey("left")){
-			//yaw ship left by rotateAmount each frame
-			transform.Rotate(0, -rotateAmount, 0);
-		}
-		if(Input.GetKey("right")){
+		}*/
+
+        //yaw ship left by rotateAmount each frame
+        //transform.rotation = InputManager.GetRotation("Turret");
+        
+
+        //}
+		//if(Input.GetKey("right")){
 			//yaw ship right by rotateAmount each frame
-			transform.Rotate(0, rotateAmount, 0);
-		}
-		if(Input.GetKey("a")){
+			//transform.Rotate(0, rotateAmount, 0);
+		//}
+		/*if(Input.GetKey("a")){
 			//roll ship  left by rotateAmount each frame
 			transform.Rotate(0, 0, rotateAmount);
 		}
 		if(Input.GetKey("d")){
 			//roll ship right by rotateAmount each frame
 			transform.Rotate(0,0, -rotateAmount);
-		}
+		}*/
 
 		//set speed
 		if(Input.GetKey("0")){

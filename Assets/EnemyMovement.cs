@@ -22,8 +22,8 @@ public class EnemyMovement : MonoBehaviour {
 			transform.position += transform.forward * moveSpeed * Time.deltaTime;
 
 			if(Vector3.Distance(transform.position, player.position) <= MaxDist){
-				PlayerShooting shot = gameObject.GetComponent<PlayerShooting>();
-				shot.Shoot();
+				//PlayerShooting shot = gameObject.GetComponent<PlayerShooting>();
+				//shot.Shoot();
 			}
 		}
 	}

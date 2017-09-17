@@ -1,0 +1,16 @@
+# OBJ Material Export by Luxion KeyShot
+
+newmtl Part3:polished steel:165:158:150 #4
+Kd 0 1 1
+
+newmtl Assem1（part):color:202:209:238 #33
+Kd 0.0137025 0.058664 0.193548
+
+newmtl Assem1（part):color:202:209:238 #33
+Kd 0.0137025 0.058664 0.193548
+
+newmtl Steel Textured
+Kd 0.169355 0.169355 0.169355
+
+newmtl Steel Textured
+Kd 0.169355 0.169355 0.169355

@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: f4a0cff468bcfbf498aea7a410d8206d
+timeCreated: 1505674840
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1
+    100002: "Assem1\uFF08part)"
+    100004: "Assem1\uFF08part) 1"
+    100006: "Assem1\uFF08part) 10"
+    100008: "Assem1\uFF08part) 11"
+    100010: "Assem1\uFF08part) 12"
+    100012: "Assem1\uFF08part) 13"
+    100014: "Assem1\uFF08part) 14"
+    100016: "Assem1\uFF08part) 15"
+    100018: "Assem1\uFF08part) 16"
+    100020: "Assem1\uFF08part) 17"
+    100022: "Assem1\uFF08part) 18"
+    100024: "Assem1\uFF08part) 19"
+    100026: "Assem1\uFF08part) 2"
+    100028: "Assem1\uFF08part) 20"
+    100030: "Assem1\uFF08part) 21"
+    100032: "Assem1\uFF08part) 22"
+    100034: "Assem1\uFF08part) 23"
+    100036: "Assem1\uFF08part) 24"
+    100038: "Assem1\uFF08part) 25"
+    100040: "Assem1\uFF08part) 26"
+    100042: "Assem1\uFF08part) 27"
+    100044: "Assem1\uFF08part) 28"
+    100046: "Assem1\uFF08part) 29"
+    100048: "Assem1\uFF08part) 3"
+    100050: "Assem1\uFF08part) 30"
+    100052: "Assem1\uFF08part) 31"
+    100054: "Assem1\uFF08part) 32"
+    100056: "Assem1\uFF08part) 33"
+    100058: "Assem1\uFF08part) 34"
+    100060: "Assem1\uFF08part) 35"
+    100062: "Assem1\uFF08part) 36"
+    100064: "Assem1\uFF08part) 37"
+    100066: "Assem1\uFF08part) 38"
+    100068: "Assem1\uFF08part) 39"
+    100070: "Assem1\uFF08part) 4"
+    100072: "Assem1\uFF08part) 40"
+    100074: "Assem1\uFF08part) 41"
+    100076: "Assem1\uFF08part) 42"
+    100078: "Assem1\uFF08part) 43"
+    100080: "Assem1\uFF08part) 44"
+    100082: "Assem1\uFF08part) 45"
+    100084: "Assem1\uFF08part) 46"
+    100086: "Assem1\uFF08part) 47"
+    100088: "Assem1\uFF08part) 48"
+    100090: "Assem1\uFF08part) 49"
+    100092: "Assem1\uFF08part) 5"
+    100094: "Assem1\uFF08part) 50"
+    100096: "Assem1\uFF08part) 51"
+    100098: "Assem1\uFF08part) 52"
+    100100: "Assem1\uFF08part) 53"
+    100102: "Assem1\uFF08part) 54"
+    100104: "Assem1\uFF08part) 55"
+    100106: "Assem1\uFF08part) 56"
+    100108: "Assem1\uFF08part) 57"
+    100110: "Assem1\uFF08part) 58"
+    100112: "Assem1\uFF08part) 59"
+    100114: "Assem1\uFF08part) 6"
+    100116: "Assem1\uFF08part) 60"
+    100118: "Assem1\uFF08part) 61"
+    100120: "Assem1\uFF08part) 62"
+    100122: "Assem1\uFF08part) 63"
+    100124: "Assem1\uFF08part) 63_MeshPart0"
+    100126: "Assem1\uFF08part) 63_MeshPart1"
+    100128: "Assem1\uFF08part) 63_MeshPart2"
+    100130: "Assem1\uFF08part) 64"
+    100132: "Assem1\uFF08part) 7"
+    100134: "Assem1\uFF08part) 8"
+    100136: "Assem1\uFF08part) 9"
+    100138: Central Control
+    100140: conjection
+    100142: //RootNode
+    100144: Controller
+    400000: 1
+    400002: "Assem1\uFF08part)"
+    400004: "Assem1\uFF08part) 1"
+    400006: "Assem1\uFF08part) 10"
+    400008: "Assem1\uFF08part) 11"
+    400010: "Assem1\uFF08part) 12"
+    400012: "Assem1\uFF08part) 13"
+    400014: "Assem1\uFF08part) 14"
+    400016: "Assem1\uFF08part) 15"
+    400018: "Assem1\uFF08part) 16"
+    400020: "Assem1\uFF08part) 17"
+    400022: "Assem1\uFF08part) 18"
+    400024: "Assem1\uFF08part) 19"
+    400026: "Assem1\uFF08part) 2"
+    400028: "Assem1\uFF08part) 20"
+    400030: "Assem1\uFF08part) 21"
+    400032: "Assem1\uFF08part) 22"
+    400034: "Assem1\uFF08part) 23"
+    400036: "Assem1\uFF08part) 24"
+    400038: "Assem1\uFF08part) 25"
+    400040: "Assem1\uFF08part) 26"
+    400042: "Assem1\uFF08part) 27"
+    400044: "Assem1\uFF08part) 28"
+    400046: "Assem1\uFF08part) 29"
+    400048: "Assem1\uFF08part) 3"
+    400050: "Assem1\uFF08part) 30"
+    400052: "Assem1\uFF08part) 31"
+    400054: "Assem1\uFF08part) 32"
+    400056: "Assem1\uFF08part) 33"
+    400058: "Assem1\uFF08part) 34"
+    400060: "Assem1\uFF08part) 35"
+    400062: "Assem1\uFF08part) 36"
+    400064: "Assem1\uFF08part) 37"
+    400066: "Assem1\uFF08part) 38"
+    400068: "Assem1\uFF08part) 39"
+    400070: "Assem1\uFF08part) 4"
+    400072: "Assem1\uFF08part) 40"
+    400074: "Assem1\uFF08part) 41"
+    400076: "Assem1\uFF08part) 42"
+    400078: "Assem1\uFF08part) 43"
+    400080: "Assem1\uFF08part) 44"
+    400082: "Assem1\uFF08part) 45"
+    400084: "Assem1\uFF08part) 46"
+    400086: "Assem1\uFF08part) 47"
+    400088: "Assem1\uFF08part) 48"
+    400090: "Assem1\uFF08part) 49"
+    400092: "Assem1\uFF08part) 5"
+    400094: "Assem1\uFF08part) 50"
+    400096: "Assem1\uFF08part) 51"
+    400098: "Assem1\uFF08part) 52"
+    400100: "Assem1\uFF08part) 53"
+    400102: "Assem1\uFF08part) 54"
+    400104: "Assem1\uFF08part) 55"
+    400106: "Assem1\uFF08part) 56"
+    400108: "Assem1\uFF08part) 57"
+    400110: "Assem1\uFF08part) 58"
+    400112: "Assem1\uFF08part) 59"
+    400114: "Assem1\uFF08part) 6"
+    400116: "Assem1\uFF08part) 60"
+    400118: "Assem1\uFF08part) 61"
+    400120: "Assem1\uFF08part) 62"
+    400122: "Assem1\uFF08part) 63"
+    400124: "Assem1\uFF08part) 63_MeshPart0"
+    400126: "Assem1\uFF08part) 63_MeshPart1"
+    400128: "Assem1\uFF08part) 63_MeshPart2"
+    400130: "Assem1\uFF08part) 64"
+    400132: "Assem1\uFF08part) 7"
+    400134: "Assem1\uFF08part) 8"
+    400136: "Assem1\uFF08part) 9"
+    400138: Central Control
+    400140: conjection
+    400142: //RootNode
+    400144: Controller
+    2100000: Hard Rough Plastic Black
+    2100002: "Assem1\uFF08part)_color_202_209_238 #33"
+    2100004: Steel Textured
+    2300000: "Assem1\uFF08part) 42"
+    2300002: "Assem1\uFF08part) 43"
+    2300004: "Assem1\uFF08part) 44"
+    2300006: "Assem1\uFF08part) 45"
+    2300008: "Assem1\uFF08part) 46"
+    2300010: "Assem1\uFF08part) 47"
+    2300012: "Assem1\uFF08part) 48"
+    2300014: "Assem1\uFF08part) 49"
+    2300016: "Assem1\uFF08part) 50"
+    2300018: "Assem1\uFF08part) 51"
+    2300020: "Assem1\uFF08part) 52"
+    2300022: "Assem1\uFF08part) 53"
+    2300024: "Assem1\uFF08part) 54"
+    2300026: "Assem1\uFF08part) 55"
+    2300028: "Assem1\uFF08part) 56"
+    2300030: "Assem1\uFF08part) 57"
+    2300032: "Assem1\uFF08part) 58"
+    2300034: "Assem1\uFF08part) 59"
+    2300036: "Assem1\uFF08part) 60"
+    2300038: "Assem1\uFF08part) 61"
+    2300040: "Assem1\uFF08part) 62"
+    2300042: "Assem1\uFF08part) 63_MeshPart0"
+    2300044: "Assem1\uFF08part) 63_MeshPart1"
+    2300046: "Assem1\uFF08part) 63_MeshPart2"
+    2300048: "Assem1\uFF08part) 64"
+    3300000: "Assem1\uFF08part) 42"
+    3300002: "Assem1\uFF08part) 43"
+    3300004: "Assem1\uFF08part) 44"
+    3300006: "Assem1\uFF08part) 45"
+    3300008: "Assem1\uFF08part) 46"
+    3300010: "Assem1\uFF08part) 47"
+    3300012: "Assem1\uFF08part) 48"
+    3300014: "Assem1\uFF08part) 49"
+    3300016: "Assem1\uFF08part) 50"
+    3300018: "Assem1\uFF08part) 51"
+    3300020: "Assem1\uFF08part) 52"
+    3300022: "Assem1\uFF08part) 53"
+    3300024: "Assem1\uFF08part) 54"
+    3300026: "Assem1\uFF08part) 55"
+    3300028: "Assem1\uFF08part) 56"
+    3300030: "Assem1\uFF08part) 57"
+    3300032: "Assem1\uFF08part) 58"
+    3300034: "Assem1\uFF08part) 59"
+    3300036: "Assem1\uFF08part) 60"
+    3300038: "Assem1\uFF08part) 61"
+    3300040: "Assem1\uFF08part) 62"
+    3300042: "Assem1\uFF08part) 63_MeshPart0"
+    3300044: "Assem1\uFF08part) 63_MeshPart1"
+    3300046: "Assem1\uFF08part) 63_MeshPart2"
+    3300048: "Assem1\uFF08part) 64"
+    4300000: "Assem1\uFF08part)"
+    4300002: "Assem1\uFF08part)"
+    4300004: "Assem1\uFF08part)"
+    4300006: "Assem1\uFF08part)"
+    4300008: "Assem1\uFF08part)"
+    4300010: "Assem1\uFF08part)"
+    4300012: "Assem1\uFF08part)"
+    4300014: "Assem1\uFF08part)"
+    4300016: "Assem1\uFF08part)"
+    4300018: "Assem1\uFF08part)"
+    4300020: "Assem1\uFF08part)"
+    4300022: "Assem1\uFF08part)"
+    4300024: "Assem1\uFF08part)"
+    4300026: "Assem1\uFF08part)"
+    4300028: "Assem1\uFF08part)"
+    4300030: "Assem1\uFF08part)"
+    4300032: "Assem1\uFF08part)"
+    4300034: "Assem1\uFF08part)"
+    4300036: "Assem1\uFF08part)"
+    4300038: "Assem1\uFF08part)"
+    4300040: "Assem1\uFF08part)"
+    4300042: "Assem1\uFF08part)_MeshPart0"
+    4300044: "Assem1\uFF08part)_MeshPart1"
+    4300046: "Assem1\uFF08part)_MeshPart2"
+    4300048: "Assem1\uFF08part)"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

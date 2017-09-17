@@ -10,6 +10,7 @@ public class LeftController : MonoBehaviour {
     {
         GameObject turret = GameObject.FindGameObjectWithTag("Turret");
         turret.transform.SetParent(transform);
+        turret.transform.localPosition = Vector3.zero;
     }
 
 }
