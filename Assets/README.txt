@@ -2,7 +2,16 @@ N-Space
 
 Resources Used:
 
-Airplane Model from Unity Standard Assets Vehicle Pack
+Sounds:
+"Lasgun fire" 234083__211redman112__lasgun-fire.ogg https://freesound.org/people/211redman112/sounds/234083/ by user 211redman112 used under Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+
+Models:
+Airplane Model from Unity Standard Assets Vehicle Pack https://www.assetstore.unity3d.com/en/#!/content/32351
+
+Asteroids Pack Mark Dion https://www.assetstore.unity3d.com/en/#!/content/84988
+
+Particle Effects:
+Explosion from Unity Standard Assets
 
 Planet Textures:
 
