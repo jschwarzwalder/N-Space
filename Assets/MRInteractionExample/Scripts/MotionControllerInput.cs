@@ -264,6 +264,16 @@ public class MotionControllerInput : MonoBehaviour
             GameObject go = Instantiate(this.DevicePrefab, this.ControllersRoot);
             go.name = "Controller " + id;
             imDevices[id] = go.transform;
+            foreach (var sourceState in InteractionManager.GetCurrentReading())
+            {
+              
+                var handedness = sourceState.source.handedness;
+
+                if (handedness == InteractionSourceHandedness.Left && sourceState.source.id == id)
+                {
+                    go.AddComponent<LeftController>();
+                }
+            }
         }
 
         this.console.UpdateProperty("Detected Motion Controllers", string.Format("{0}", this.imDevices.Keys.Count));
@@ -481,7 +491,7 @@ public class MotionControllerInput : MonoBehaviour
         // Show keyboard input
         if (!String.IsNullOrEmpty(Input.inputString))
         {   
-            this.console.UpdateProperty("Last Key(s) Pressed", string.Format("{0}", Input.inputString));
+            //this.console.UpdateProperty("Last Key(s) Pressed", string.Format("{0}", Input.inputString));
         }
     }
 
@@ -515,7 +525,7 @@ public class MotionControllerInput : MonoBehaviour
 
     private void OnDestroy()
     {
-        this.ClearTrackedConsoleProperties();
+        //this.ClearTrackedConsoleProperties();
 
         switch (InputMode)
         {

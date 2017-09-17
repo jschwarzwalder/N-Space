@@ -6,7 +6,7 @@ public class DisplacmentRotation : MonoBehaviour {
 
     public Transform displacementTransform;
     public Vector3 displacement;
-    public Vector3 direction;
+    public Vector3 direction;  
    
 
     public Vector3 GetTargetPosition() {

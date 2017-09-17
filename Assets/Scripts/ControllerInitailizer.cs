@@ -7,6 +7,7 @@ public class ControllerInitailizer : MonoBehaviour {
     public bool initialized;
     public Transform centerPoint;
     public Transform[] controllers;
+    public Relocate turret;
 
     public void CalculateCenterPoint(Transform point) {
         float y = (controllers[0].position.y - controllers[1].position.y) / 2 + controllers[1].position.y;
@@ -29,6 +30,8 @@ public class ControllerInitailizer : MonoBehaviour {
                     controllers[i] = transform.GetChild(i);
                 }
                 CalculateCenterPoint(centerPoint);
+                //turret.ChangePosition();
+                turret.enabled = false;
             }
         }
         else {
