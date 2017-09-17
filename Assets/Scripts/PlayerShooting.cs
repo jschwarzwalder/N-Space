@@ -41,7 +41,7 @@ public class PlayerShooting : MonoBehaviour {
 		}
 	}
 
-	void Shoot(){
+	public void Shoot(){
 		timer = 0f;
 
 		gunAudio.Play();
